@@ -1,0 +1,4 @@
+#Mon Apr 17 13:18:46 MSK 2017
+base.0=C\:\\Programming\\AndroidProjects\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Programming\\AndroidProjects\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
